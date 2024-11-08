@@ -1,0 +1,9 @@
+{
+  "Languages":[
+    {
+      "DisplayName" : "Tiếng Việt",
+      "Code" : "vi",
+      "IsDefault": true
+    }
+  ]
+}
